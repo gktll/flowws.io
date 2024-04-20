@@ -1,0 +1,84 @@
+[
+  	{
+		"id": "01", 
+		"ranking_by_device": {
+			"desktop": {
+				"absolute_rank": 117,
+				"industry_rank" : 37,
+				"absolute_usability_rank": 54,
+				"industry_usability_rank": 44,
+				"absolute_accessibility_rank": 87,
+				"industry_accessibility_rank": 76,
+				"absolute_performance_rank": 2336,
+				"industry_performance_rank": 676,
+				"absolute_sentiment_rank": 1216,
+				"industry_sentiment_rank": 236
+			},
+			"mobile": {
+				"absolute_rank": 117,
+				"industry_rank" : 37,
+				"absolute_usability_rank": 54,
+				"industry_usability_rank": 44,
+				"absolute_accessibility_rank": 87,
+				"industry_accessibility_rank": 76,
+				"absolute_performance_rank": 2336,
+				"industry_performance_rank": 676,
+				"absolute_sentiment_rank": 1216,
+				"industry_sentiment_rank": 236
+			},
+			"app": {
+				"absolute_rank": 117,
+				"industry_rank" : 37,
+				"absolute_usability_rank": 54,
+				"industry_usability_rank": 44,
+				"absolute_accessibility_rank": 87,
+				"industry_accessibility_rank": 76,
+				"absolute_performance_rank": 2336,
+				"industry_performance_rank": 676,
+				"absolute_sentiment_rank": 1216,
+				"industry_sentiment_rank": 236
+			}
+		} 
+	},
+	{
+		"id": "02", 
+		"ranking_by_device": {
+			"desktop": {
+				"absolute_rank": 517,
+				"industry_rank" : 87,
+				"absolute_usability_rank": 84,
+				"industry_usability_rank": 54,
+				"absolute_accessibility_rank": 97,
+				"industry_accessibility_rank": 56,
+				"absolute_performance_rank": 736,
+				"industry_performance_rank": 76,
+				"absolute_sentiment_rank": 216,
+				"industry_sentiment_rank": 436
+			},
+			"mobile": {
+				"absolute_rank": 2317,
+				"industry_rank" : 37,
+				"absolute_usability_rank": 524,
+				"industry_usability_rank": 44,
+				"absolute_accessibility_rank": 27,
+				"industry_accessibility_rank": 56,
+				"absolute_performance_rank": 36,
+				"industry_performance_rank": 76,
+				"absolute_sentiment_rank": 116,
+				"industry_sentiment_rank": 36
+			},
+			"app": {
+				"absolute_rank": 117,
+				"industry_rank" : 37,
+				"absolute_usability_rank": 54,
+				"industry_usability_rank": 44,
+				"absolute_accessibility_rank": 87,
+				"industry_accessibility_rank": 76,
+				"absolute_performance_rank": 2336,
+				"industry_performance_rank": 676,
+				"absolute_sentiment_rank": 1216,
+				"industry_sentiment_rank": 236
+			}
+		} 
+	}
+]

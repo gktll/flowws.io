@@ -1,0 +1,225 @@
+{
+	"core_data": {
+		"id": "bea001",
+		"company": "Notino",
+		"company_logo": "https://company_logo.com",
+		"company_link": "https://www.notino.it/",
+		"company_description": "lorem ipsum",
+		"industry": "Health & Beauty",
+		"country": "CZ",
+		"languages": [
+			"CZ",
+			"EN",
+			"DE",
+			"ES",
+			"FR",
+			"IT"
+		],
+		"markets": [
+			"CZ",
+			"EN",
+			"DE",
+			"ES",
+			"FR",
+			"IT"
+		],
+		"ranking": [
+			{
+				"desktop": {
+					"absolute_rank": "45",
+					"industry_rank": "1",
+					"absolute_usability_rank": "58",
+					"industry_usability_rank": "3",
+					"absolute_accessibility_rank": false,
+					"industry_accessibility_rank": false,
+					"absolute_performance_rank": false,
+					"industry_performance_rank": false,
+					"absolute_sentiment_rank": false,
+					"industry_sentiment_rank": false
+			},
+				"mobile": {
+					"absolute_rank": "45",
+					"industry_rank": "1",
+					"absolute_usability_rank": "58",
+					"industry_usability_rank": "3",
+					"absolute_accessibility_rank": false,
+					"industry_accessibility_rank": false,
+					"absolute_performance_rank": false,
+					"industry_performance_rank": false,
+					"absolute_sentiment_rank": false,
+					"industry_sentiment_rank": false
+				}
+			}
+		],
+		"tot_desktop_audits": "4",
+		"tot_mobile_audits": "2",
+		"tot_app_audits": "2",
+		"total_datapoints": "463728",
+		"related_sites": [
+			"bea893",
+			"bea7839",
+			"bea0392"
+		]
+	},
+	"kpis": {
+		"id": "bea001",
+		"revenues": "$",
+		"unique_visitors": "2.085.326",
+		"average_time": "12:45",
+		"bounce_rate": "47,0%",
+		"average_order_value": "$",
+		"other": "",
+		"social_media_engagement": ""
+	},
+	"content_data": {
+		"id": "bea001",
+		"robots-text": "",
+		"sitemap": "",
+		"category_sitemaps": [],
+		"products_sitemap": [],
+		"other_sitemaps": [],
+		"categories": {
+			"ysh7898": {
+				"category_name": "shampoo",
+				"total_product": 3446,
+				"average_price": "$21",
+				"url": "https://www.site.it/shampoo",
+				"product_data": []
+			},
+			"ysh7sj9w": {
+				"category_name": "perfumes",
+				"total_product": 1446,
+				"average_price": "$21",
+				"url": "https://www.site.it/perfumes",
+				"product_data": []
+			}
+		},
+		"product_pages": {
+			"sku": {
+				"product_name": "shampoo",
+				"product_brand": 3446,
+				"product_description": "$21"
+			}
+		},
+		"reviews": {}
+	},
+	"performance": {
+		"id": "bea001",
+		"absolute_performance_rank": "",
+		"industry_performance_rank": "",
+		"desktop": {
+			"metrics": {
+				"largest_contentful_paint": "",
+				"cumulative_layout_shift": "",
+				"interaction_to_next_paint": ""
+			}
+		},
+		"mobile": {
+			"metrics": {
+				"largest_contentful_paint": "",
+				"cumulative_layout_shift": "",
+				"interaction_to_next_paint": ""
+			}
+		}
+	},
+	"accessibility": {
+		"id": "bea001",
+		"absolute_accessibility_rank": "",
+		"industry_accessibility_rank": "",
+		"pages": [
+			{
+				"homepage": {
+					"total_rank": 78,
+					"issues": 23 
+				},
+				"product_list": 45,
+				"product_page": 23
+			}
+
+		]
+	},
+	"usability": {
+		"id": "bea001",
+		"absolute_usability_rank": "",
+		"industry_usability_rank": "",
+		"desktop": [
+			{
+				"theme_id": "sea478932",
+				"theme_name": "search_intelligence",
+				"theme_audits": 
+				[
+					{
+					"audit_id": "ysjs9730",
+					"audit_timestamp": "12062024_152739",
+					"rank": "66"
+					}
+				]
+			},
+			{
+				"theme_id": "per48950",
+				"theme_name": "performance",
+				"theme_audits": [
+					{
+					"audit_id": "834jkdk",
+					"audit_timestamp": "14062024_122143",
+					"rank": "36"
+					}
+				]
+			},
+			{
+				"theme_id": "che48950",
+				"theme_name": "checkout_health",
+				"theme_audits": [
+					{
+					"audit_id": "834jkdk",
+					"audit_timestamp": "12012024_091113",
+					"rank": "59"
+					}
+				]
+			},
+			{
+				"theme_id": "pdp48950",
+				"theme_name": "product_page",
+				"theme_audits": [
+					{
+					"audit_id": "834jkdk",
+					"audit_timestamp": "12012024_091113",
+					"rank": "59"
+					}
+				]
+			}
+		],
+		"mobile": [],
+		"app": []
+	},
+	"sentiment": {},
+	"audits": [
+		{
+			"theme_id": "sea478932",
+			"theme_name": "search_intelligence",
+			"audit_data": {
+				"audit_id": "ysjs9730",
+				"audit_timestamp": "12062024_152739",
+				"site_id": "bea007",
+				"platform_type": "desktop",
+				"absolute_rank": "66",
+				"industry_rank": "21",
+				"results": [
+					{
+						"test_name": "exaxct_queries",
+						"test_id": "exa903484",
+						"rank": 80,
+						"queries_tested": 15
+
+					},
+					{
+						"product_type_queries": ""
+
+					}
+				]
+			}
+		}
+	]
+}
+
+

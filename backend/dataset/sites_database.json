@@ -1,0 +1,36 @@
+[
+  {
+    "id": "01",
+    "company": "parama",
+    "company_logo": "https://static.paramacdn.net/media/58/b3/88/1650456900/Logo_Parama_No_Payoff.svg",
+    "site_url": "https://www.paramashop.it",
+    "company_description": "Store online specializzato nella vendita diretta soluzioni per arredare, ristrutturare e rinnovare il bagno.",
+    "industry": "home_furniture",
+    "country": "it",
+    "tot_desktop_audits": 1,
+    "tot_mobile_audits": 0,
+    "tot_app_audits": 0,
+    "total_datapoints": 1245,
+    "languages": "it",
+    "markets": "it",
+    "rankings": [],
+    "related_sites": [] 
+  },
+  {
+    "id": "02",
+    "company": "KV Store",
+    "company_logo": "https://www.kvstore.it/media/logo/default/logo_orizzontale_ok_neo_opt_2.png",
+    "site_url": "https://www.kv-store.it",
+    "company_description": "KVstore è il vero esperto del bagno! Offriamo soluzioni complete, moderne e di qualità a prezzi accessibili e per ogni necessità. Da oltre 10 anni mettiamo la nostra competenza a disposizione della vendita online, in Italia ed in Europa. Entriamo nelle vostre case, annullando le distanze e permettendovi di realizzare il bagno dei vostri sogni.",
+    "industry": "home_furniture",
+    "country": "it",
+    "tot_desktop_audits": 1,
+    "tot_mobile_audits": 0,
+    "tot_app_audits": 0,
+    "total_datapoints": 1215,
+    "languages": "it",
+    "markets": "it",
+    "rankings": [],
+    "related_sites": []
+  }
+]
