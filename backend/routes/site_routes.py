@@ -5,7 +5,6 @@ from sqlalchemy.exc import SQLAlchemyError
 from flask import current_app
 
 
-
 bp = Blueprint('sites', __name__, url_prefix='/sites')
 
 @bp.route('/', methods=['GET'])

@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 1,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "git.autofetch": true,
+  "update.mode": "start",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "[python]": {
+  
+      "editor.defaultFormatter": "olleln.pyrefact"
+  },
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "terminal.integrated.automationProfile.osx": null
+}

@@ -1,4 +1,4 @@
-// File: /Users/federico/Desktop/e-commerce strategy/flowws.io/frontend/app/page.tsx
+// File: /Users/federico/Desktop/ecom_strategy/flowws.io/frontend/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
